@@ -36,7 +36,7 @@
         <dependency>
             <groupId>com.github.secdec.astam-correlator</groupId>
             <artifactId>threadfix-cli-lib</artifactId>
-            <version>1.2.12</version>
+            <version>1.2.16</version>
         </dependency>
         <dependency>
             <groupId>com.github.secdec.astam-correlator</groupId>
